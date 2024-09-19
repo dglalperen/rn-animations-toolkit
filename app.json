@@ -13,9 +13,13 @@
         {
           "origin": "https://n"
         }
-      ]
+      ],
+      "expo-font"
     ],
     "name": "rn-animations-toolkit",
-    "slug": "rn-animations-toolkit"
+    "slug": "rn-animations-toolkit",
+    "android": {
+      "package": "com.dglalperen.rnanimationstoolkit"
+    }
   }
 }
